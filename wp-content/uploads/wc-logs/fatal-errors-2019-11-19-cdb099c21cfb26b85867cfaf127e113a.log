@@ -1,0 +1,16 @@
+2019-11-19T15:37:41+00:00 CRITICAL Cannot redeclare dcms_custom_slider_storefront() (previously declared in C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php:29) en C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php en la línea 41
+
+2019-11-19T15:37:43+00:00 CRITICAL Cannot redeclare dcms_custom_slider_storefront() (previously declared in C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php:29) en C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php en la línea 41
+
+2019-11-19T15:37:44+00:00 CRITICAL Cannot redeclare dcms_custom_slider_storefront() (previously declared in C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php:29) en C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php en la línea 41
+
+2019-11-19T15:37:45+00:00 CRITICAL Cannot redeclare dcms_custom_slider_storefront() (previously declared in C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php:29) en C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php en la línea 41
+
+2019-11-19T15:37:46+00:00 CRITICAL Cannot redeclare dcms_custom_slider_storefront() (previously declared in C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php:29) en C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php en la línea 41
+
+2019-11-19T15:37:53+00:00 CRITICAL Cannot redeclare dcms_custom_slider_storefront() (previously declared in C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php:29) en C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php en la línea 41
+
+2019-11-19T15:37:54+00:00 CRITICAL Cannot redeclare dcms_custom_slider_storefront() (previously declared in C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php:29) en C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php en la línea 41
+
+2019-11-19T20:12:23+00:00 CRITICAL syntax error, unexpected '?' en C:\Bitnami\wordpress-5.3-0\apps\wordpress\htdocs\wp-content\themes\storefront-child\functions.php en la línea 53
+
